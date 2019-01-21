@@ -15,6 +15,7 @@
 		F9C9787F21F5845400C589AF /* text_toutoi.png in Resources */ = {isa = PBXBuildFile; fileRef = F9C9787E21F5845400C589AF /* text_toutoi.png */; };
 		F9C9788121F5847800C589AF /* petcart_cat.png in Resources */ = {isa = PBXBuildFile; fileRef = F9C9788021F5847800C589AF /* petcart_cat.png */; };
 		F9C9788321F5848F00C589AF /* pet_cat_omoi_sleep_man.png in Resources */ = {isa = PBXBuildFile; fileRef = F9C9788221F5848F00C589AF /* pet_cat_omoi_sleep_man.png */; };
+		F9C9788521F59D3D00C589AF /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9C9788421F59D3D00C589AF /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		F9C9787E21F5845400C589AF /* text_toutoi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = text_toutoi.png; sourceTree = "<group>"; };
 		F9C9788021F5847800C589AF /* petcart_cat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = petcart_cat.png; sourceTree = "<group>"; };
 		F9C9788221F5848F00C589AF /* pet_cat_omoi_sleep_man.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pet_cat_omoi_sleep_man.png; sourceTree = "<group>"; };
+		F9C9788421F59D3D00C589AF /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				F9C9786C21F0B7CD00C589AF /* AppDelegate.swift */,
 				F9C9786E21F0B7CD00C589AF /* ViewController.swift */,
 				F9C9787021F0B7CD00C589AF /* Main.storyboard */,
+				F9C9788421F59D3D00C589AF /* ResultViewController.swift */,
 				F9C9787321F0B7CE00C589AF /* Assets.xcassets */,
 				F9C9787521F0B7CE00C589AF /* LaunchScreen.storyboard */,
 				F9C9787821F0B7CE00C589AF /* Info.plist */,
@@ -149,6 +152,7 @@
 			files = (
 				F9C9786F21F0B7CD00C589AF /* ViewController.swift in Sources */,
 				F9C9786D21F0B7CD00C589AF /* AppDelegate.swift in Sources */,
+				F9C9788521F59D3D00C589AF /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
